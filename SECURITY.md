@@ -1,7 +1,7 @@
 # Security Policy
 
 ## Supported Versions
-You can use versions 5.1x and 4.0x and 5.0x and <4.0 aren't supported.
+You can use versions 5.1x and 4.0x. Versions 5.0x and <4.0 aren't supported.
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -13,7 +13,8 @@ You can use versions 5.1x and 4.0x and 5.0x and <4.0 aren't supported.
 ## Reporting a Vulnerability
 use this section to tell people about a vulnerablilty
 
-## Updates will occur in next 1 to 2 weeks for the next few months as I develop the page.
+## Updates 
+Updates will occur in next 1 to 2 weeks for the next few months as I develop the page.
 
 
 
